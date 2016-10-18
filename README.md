@@ -198,7 +198,7 @@ Inline-style:
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/Scevolla/readme.md-template/raw/master/img/owl2.jpg "Logo Title Text 2"
+[logo]: https://github.com/Scevolla/Markdown-cheatsheet/raw/master/img/owl2.jpg "Logo Title Text 2"
 ```
 
 Here's image from this repositary (hover to see the title text):
@@ -209,7 +209,7 @@ Inline-style:
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/Scevolla/readme.md-template/raw/master/img/owl2.jpg "Logo Title Text 2"
+[logo]: https://github.com/Scevolla/Markdown-cheatsheet/raw/master/img/owl2.jpg "Logo Title Text 2"
 
 [Go to top](#markdown-cheatsheat)
 
